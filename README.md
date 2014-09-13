@@ -1,4 +1,5 @@
 Altitude Technologies Universal
+-------------------------------
 Altitude Software Corporation
 
 Project: Project Intellect
